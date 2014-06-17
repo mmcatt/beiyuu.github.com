@@ -86,10 +86,10 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .blog .aside{
     background-image:url(/images/index/1kyodo.jpg);
 }
-.opinion .aside{
+.thought .aside{
     background-image:url(/images/index/2autumn.jpg);
 }
-.project .aside{
+.other .aside{
     background-image:url(/images/index/3stairs.jpg)
 }
 .index-content .section { margin-left:30%; padding-top:80px; padding-right:15%; ;}
