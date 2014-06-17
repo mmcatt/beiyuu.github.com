@@ -33,11 +33,12 @@ description: 今年是2014年，十年前的这个时候，博客可是非常新
 ###2 引用一下
 [引用、链接][2]
 [quote][]
-[Markdown语法][3]
-
+[Markdown语法tw][3]
+[Markdonw basics][4]
 
 
 [quote]:    http://mmcatt.github.io/ "不用编号的引用链接"
 [1]: http://beiyuu.com/github-pages/
 [2]:  http://mmcatt.github.io/ "这里是注释吗？"
 [3]: http://markdown.tw/    "Markdown语法"
+[4]: https://github.com/othree/markdown-syntax-zhtw/blob/master/basics.md "还是markdown"
