@@ -1,6 +1,6 @@
 ---
-layout:     post
-title:      写写我喜欢的书-文学类
+layout: post
+title: 写写我喜欢的书-文学类
 category: other
 description: 
 说起来也看过蛮多挺杂的书，但是让我说个什么，却似乎说不出个所以然。虽说在网上查一段说明是很容易的事情，但是用自己的语言来描述，还是有些差别的。
