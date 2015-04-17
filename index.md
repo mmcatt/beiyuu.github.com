@@ -20,7 +20,8 @@ layout: home
             </li>
         {% endfor %}
         </ul>
+        Copyright 2014-2015 Cynthia Wang @github
     </div>
-    <div class="aside">Copyright 2014-2015 Cynthia Wang @github
+    <div class="aside">
     </div>
 </div>
