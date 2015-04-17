@@ -21,6 +21,6 @@ layout: home
         {% endfor %}
         </ul>
     </div>
-    <div class="aside">
+    <div class="aside">Copyright 2014-2015 Cynthia Wang @github
     </div>
 </div>
