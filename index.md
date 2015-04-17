@@ -10,7 +10,7 @@ layout: home
             <li style="text-align:right"><a href="/other"><span>Books</span></a></li>
         </ul>
 
-        <div class="cate-bar"><span id="cateBar"></span></div>
+        <div class="cate-bar"><span id="cateBar">Copyright 2014-2015 Cynthia Wang @github</span></div>
 
         <ul class="artical-list">
         {% for post in site.categories.blog %}
@@ -20,7 +20,7 @@ layout: home
             </li>
         {% endfor %}
         </ul>
-        Copyright 2014-2015 Cynthia Wang @github
+        
     </div>
     <div class="aside">
     </div>
